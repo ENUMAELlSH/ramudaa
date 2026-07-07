@@ -1,3 +1,11 @@
-![](https://komarev.com/ghpvc/?username=aliceemare&color=fa9058&label=buns&style=plastic)
+<div align="center"
+  
+════════「」════════
+  
+![](https://komarev.com/ghpvc/?username=aliceemare&color=0a858c&label=Trion&style=plastic)
 
-<img width="675" height="454" alt="Image" src="https://github.com/user-attachments/assets/92e0d0c9-491c-40b1-898d-3fa5bb4423d2" />
+<img width="736" height="282" alt="Image" src="https://github.com/user-attachments/assets/6f2dec56-a566-4d5e-a35b-c5ecedb1bcb3" />
+
+<div align="center"
+
+══════════════
