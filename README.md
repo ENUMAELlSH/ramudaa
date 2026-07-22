@@ -5,7 +5,7 @@
 
 <div align="center"
 
-![](https://komarev.com/ghpvc/?username=aliceemare&color=d480bb&label=玄界&style=plastic)
+![](https://komarev.com/ghpvc/?username=aliceemare&color=d480bb&label=Candy&style=plastic)
 
 <img width="735" height="368" alt="Image" src="https://github.com/user-attachments/assets/1f90f2cf-659c-4eea-a2ec-9e56d25a69d4" />
 
