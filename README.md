@@ -19,7 +19,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"srcset="img width="10"https://cdn.discordapp.com/attachments/1531274539722346504/1531275099066339468/primecolor.gif?ex=6a689e91&is=6a674d11&hm=8eff98800bda55dd343e8d7a5839d7b9be558a79f232c0a3d18fd8bea5b10162&" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1531274539722346504/1531275099066339468/primecolor.gif?ex=6a689e91&is=6a674d11&hm=8eff98800bda55dd343e8d7a5839d7b9be558a79f232c0a3d18fd8bea5b10162&" />
-  <img alt="Your Image Description" src="https://cdn.discordapp.com/attachments/1531274539722346504/1531275099066339468/primecolor.gif?ex=6a689e91&is=6a674d11&hm=8eff98800bda55dd343e8d7a5839d7b9be558a79f232c0a3d18fd8bea5b10162&" />
+  <img alt="primary colors gang" src="https://cdn.discordapp.com/attachments/1531274539722346504/1531275099066339468/primecolor.gif?ex=6a689e91&is=6a674d11&hm=8eff98800bda55dd343e8d7a5839d7b9be558a79f232c0a3d18fd8bea5b10162&" />
 </picture>
 
 <p align="center">
